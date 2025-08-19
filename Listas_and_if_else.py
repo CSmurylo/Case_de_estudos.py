@@ -27,3 +27,19 @@ numeros2 = [10, 28, 4, 5, 9, 13]
 print('Total de números: ', len(numeros2))
 print('Menor número: ', min(numeros2))
 print('Maior número: ', max(numeros2))
+
+--------------------------------------------------------------------------------------
+
+salario = float(input("digite seu salário: "))
+
+# if/elif/else e 'and' para juntar mais de um no elif.
+
+if salario <= 3000:
+    print('junior')
+elif salario > 3000 and salario <= 6000:
+    print('pleno')
+elif salario > 6000 and salario <= 15000:
+    print('senior')
+else:
+    print('gerente de projetos')
+

@@ -1,3 +1,5 @@
+#SEPARAR OS TRECHOS PARA EVITER CONFLITOS NA HORA DE RODAR OS CÓDIGOS
+
 ###listas
 
 lista_numeros = [1, 2, 3]

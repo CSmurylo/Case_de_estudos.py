@@ -2,6 +2,7 @@
   Nesse código, é lido o total de palavras em um arquivo .txt e selecionadas as palavras únicas.
   Para usar ele, tem que exportar um arquivo .txt para alguma página e mudar o nome na linha 55 para o arquivo que quer pesquisar.
   Usei o site 'replit.com' para ver como fica no terminal.
+  Estudos de BIG-DATA
 '''
 
 import os
